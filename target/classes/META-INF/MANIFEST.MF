@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Maverick
+Implementation-Vendor-Id: com.mv
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/spring1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
